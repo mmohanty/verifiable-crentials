@@ -4,6 +4,8 @@
 
 // TS in Node
 //https://debugmode.net/2019/12/31/step-by-step-using-typescript-in-node-js-application/
+//Building Rest in node
+//https://stackabuse.com/building-a-rest-api-with-node-and-express/
 
 import express from 'express';
 import bodyParser from 'body-parser';
